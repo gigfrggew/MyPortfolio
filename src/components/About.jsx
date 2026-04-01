@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 
-const skills = ['JavaScript', 'React', 'HTML', 'CSS', 'Java', 'Git', 'SQL'];
+const skills = ['HTML','CSS','JavaScript','React','Java','SQL','C#','Git'];
 
 const About = () => {
   const ref = useRef(null);
