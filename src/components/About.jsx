@@ -27,12 +27,9 @@ const About = () => {
         </div>
         <div ref={ref} className="about-text-block fade-in">
           <p>
-            Final-year Computer Science Engineering student with a good foundation
-            in front-end web development comprising of HTML, CSS, JavaScript, and
-            beginner-level experience with React.js. Passionate about building
-            responsive, scalable, and user-friendly applications. Eager to
-            contribute to impactful projects and grow within a collaborative
-            development environment.
+            Final-year Computer Science Engineering student with a strong foundation in front-end development, particularly using React.js.
+             Interested in building full-stack applications and creating responsive, scalable, and user-friendly solutions. 
+            Enthusiastic about learning emerging technologies and contributing to impactful, real-world projects.
           </p>
           <div className="skills-grid">
             {skills.map((skill) => (
