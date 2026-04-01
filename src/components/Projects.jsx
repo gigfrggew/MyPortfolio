@@ -12,7 +12,7 @@ const ArrowIcon = () => (
 const projects = [
   {
     id: '01',
-    title: 'Gestura: Gesture-Based Control for Android Devices',
+    title: 'Gest: Gesture-Based Control for Android Devices',
     description:
       'This project allows people to control their mobile phone using simple hand movements instead of touching the screen. By just moving their hand in front of the camera, users can perform actions like scrolling, clicking, or navigating between apps. It works in real time and does not require any extra devices or sensors. The system is designed to be easy to use,  where touching the phone is difficult or not safe.Overall, it aims to make use of   smartphone conveineint in every situations',
     tags: ['TensorFlow', 'Opencv', 'Mediapipe', 'Machine Learning', 'Kotlin'],
