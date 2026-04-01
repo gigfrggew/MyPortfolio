@@ -58,7 +58,6 @@ const HandGestureProject = () => {
 
         {/* ── Project Hero ── */}
         <header className="hg-hero">
-          <span className="hg-project-number">01</span>
           <h1 className="hg-project-title">Hand Gesture Recognition System</h1>
           <div className="hg-tags">
             {tags.map((tag) => (
