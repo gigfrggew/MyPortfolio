@@ -107,7 +107,7 @@ const CarRental = () => {
                 <li>Implemented user authentication and authorization using JWT.</li>
                 <li>Created RESTful APIs for managing users, cars, and booking operations.</li>
                 <li>Integrated MongoDB database for storing car listings, user data, and booking records.</li>
-                <li>Enabled users to select pickup location, date, and confirm bookings بسهولة.</li>
+                <li>Enabled users to select pickup location, date, and confirm bookings</li>
                 <li>Designed an admin dashboard to add, update, and manage car listings and bookings.</li>
                 <li>Ensured smooth user experience with real-time updates and efficient data handling.</li>
               </ul>
