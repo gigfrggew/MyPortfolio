@@ -6,7 +6,7 @@ const educationData = [
     degree: 'Bachelor of Engineering in Computer Science',
     institution: 'Shri Madhwa Vadiraja Institute of Technology Bantakal Udupi',
     year: '2022-\n2026',
-    details: ['Secured 8.15 CGPA', 'Participated in 5+ NSS activity'],
+    details: ['Secured 8.11 CGPA', 'Participated in 5+ NSS activity'],
   },
   {
     id: 2,
